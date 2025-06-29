@@ -1,9 +1,9 @@
-# My Windows Config
+# My Windows Config 
 
-![](screenshots/Screenshot%201.png)
 ![](screenshots/Screenshot%202.png)
 ![](screenshots/Screenshot%203.png)
 ![](screenshots/Screenshot%204.png)
+![](screenshots/Screenshot%201.png)
 
 ## My Terminal Setup
 
