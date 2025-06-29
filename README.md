@@ -20,7 +20,7 @@
 ## Shell
 
 - Powershell
-- [Microsoft.Powershell_profile.ps1](Microsoft.PowerShell_profile.ps1) which is typically found in `C:\Users\<Username>\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`\
+- [Microsoft.Powershell_profile.ps1](Microsoft.PowerShell_profile.ps1) which is typically found in `C:\Users\<Username>\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
 
 ## Packages
 
