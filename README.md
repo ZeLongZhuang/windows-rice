@@ -8,7 +8,6 @@
 ## My Terminal Setup
 
 - [Wezterm](https://wezfurlong.org/wezterm/index.html)
-- [Wezterm Config File](.wezterm.lua)
 
 > The font used is [Victor Mono](https://github.com/rubjo/victor-mono)
 
@@ -30,8 +29,8 @@
 ## Window Manager Setup
 
 - [komorebi](https://github.com/LGUG2Z/komorebi)
-- [komorebi Config File]()
-- [komorebi Bar Config File]()
+- [komorebi Config File](komorebi.json)
+- [komorebi Bar Config File](komorebi.bar.json)
 
 ## Searching
 
