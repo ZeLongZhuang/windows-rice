@@ -1,5 +1,7 @@
 # My Windows Config 
 
+This is my old Windows config. Check my new config [here](https://github.com/ZeLongZhuang/win11-dotfiles)
+
 ![](screenshots/Screenshot%202.png)
 ![](screenshots/Screenshot%203.png)
 ![](screenshots/Screenshot%204.png)
